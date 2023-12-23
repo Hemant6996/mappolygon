@@ -26,7 +26,7 @@ const Customer = [
     },
     {
         Job_ID : 86924,
-        PC : "KFC",
+        PC : "Burger King",
         lat : 33.8511945643524, 
         lng: -118.14086250603437
     }
